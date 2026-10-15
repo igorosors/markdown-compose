@@ -1,4 +1,4 @@
-# markdown-compose
+# Android markdown compose
 
 [![CI](https://github.com/igorosors/markdown-compose/actions/workflows/ci.yml/badge.svg)](https://github.com/igorosors/markdown-compose/actions/workflows/ci.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.igorosors/markdown-compose)](https://central.sonatype.com/artifact/io.github.igorosors/markdown-compose)
@@ -8,6 +8,8 @@ Markdown in Jetpack Compose with a single composable.
 The library is written in pure Compose. Text is parsed by
 [commonmark-java](https://github.com/commonmark/commonmark-java) following the CommonMark spec, and images are loaded with
 [Coil 3](https://coil-kt.github.io/coil/).
+
+https://github.com/user-attachments/assets/9571a81e-e947-4696-bf94-f707ff15e1b3
 
 ## Features
 
