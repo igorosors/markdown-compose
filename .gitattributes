@@ -1,0 +1,11 @@
+# LF everywhere, the same as in .editorconfig, regardless of the git settings on the machine
+* text=auto eol=lf
+
+# Windows scripts need CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+*.jar binary
+*.png binary
+*.jpg binary
+*.webp binary
